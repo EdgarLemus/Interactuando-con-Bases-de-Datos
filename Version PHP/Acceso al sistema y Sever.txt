@@ -1,0 +1,10 @@
+Acceso al sistema web:
+usuario: edgar_duvan_l_r@hotmail.com
+clave: 123456
+
+MySQL esta sin clave:
+Servidor: "localhost" 
+Usuario: "root"  
+Clave: "" 
+DB: "nextu_Edgar_SQL"
+
